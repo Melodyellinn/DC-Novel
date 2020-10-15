@@ -21,3 +21,11 @@ h1 {
     border-radius: 20px;
     margin: 10px;
 }
+
+#jumbo {
+    background-image: url(Images/the-green-lantern-wallpaper-by-Van\ Sciver.jpg);
+    background-repeat: no-repeat;
+    height: 35em;
+    background-position: center;
+    font-family: 'Open Sans', sans-serif;
+}
