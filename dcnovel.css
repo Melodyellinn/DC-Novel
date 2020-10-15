@@ -1,0 +1,23 @@
+#logo {
+    height: 10vh;
+}
+
+header {
+    background-color: #335030;
+}
+
+#menu {
+    font-family: 'Audiowide', cursive;
+    color: #F8FF30;
+}
+
+#Clark {
+    border-radius: 50px;
+}
+
+h1 {
+    text-align: center;
+    border: 3px solid #81e315;
+    border-radius: 20px;
+    margin: 10px;
+}
