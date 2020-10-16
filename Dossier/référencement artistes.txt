@@ -1,5 +1,4 @@
-Ivan Reis =>
-Wallpaper one.jpg
+Ivan Reis => Wallpaper one.jpg
 GL_cover by Ivan Reis
 
 GL_cover by Jim Lee, Scott Williams and Alex Sinclair
@@ -11,3 +10,5 @@ GL_cover by Liam Sharp
 GL_variant cover by Nicola Scott
 
 the-green-lantern-wallpaper-by-Van Sciver
+
+Alan Scott by Alex Ross
