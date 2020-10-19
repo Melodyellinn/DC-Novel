@@ -28,6 +28,13 @@ h1 {
     background-repeat: no-repeat;
     height: 35em;
     background-position: center;
+    color: #f8ff30;
+    text-shadow: 2px 3px 1px #488f52;
+}
+
+#jumbo h2 {
+    font-family: 'Audiowide', cursive;
+    margin-top: 4em;
 }
 
 body {
