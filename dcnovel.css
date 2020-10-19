@@ -17,6 +17,7 @@ header {
 
 h1 {
     text-align: center;
+    color: #488f52;
     border: 3px solid #81e315;
     border-radius: 20px;
     font-family: 'Audiowide', cursive;
@@ -35,4 +36,16 @@ body {
 
 strong {
     font-weight: bold;
+}
+
+h3 a {
+    text-decoration: none;
+    color: #81e315;
+    font-family: 'Audiowide', cursive;  
+}
+
+#propos {
+    text-decoration: none;
+    color: #488f52;
+    font-size: large;
 }
