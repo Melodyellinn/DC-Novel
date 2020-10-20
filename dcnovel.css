@@ -1,3 +1,9 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
 #logo {
     height: 10vh;
 }
@@ -11,17 +17,12 @@ header {
     color: #F8FF30;
 }
 
+
 #Clark {
     border-radius: 50px;
 }
 
-h1 {
-    text-align: center;
-    color: #488f52;
-    border: 3px solid #81e315;
-    border-radius: 20px;
-    font-family: 'Audiowide', cursive;
-}
+
 
 #jumbo {
     background-image: url(Images/the-green-lantern-wallpaper-by-Van\ Sciver.jpg);
@@ -37,27 +38,37 @@ h1 {
     margin-top: 4em;
 }
 
-body {
-    font-family: 'Open Sans', sans-serif;
-}
 
-strong {
+
+.gras {
     font-weight: bold;
 }
 
-h3 a {
+
+
+h1 {
+    text-align: center;
+    color: #488f52;
+    border: 3px solid #81e315;
+    border-radius: 20px;
+    font-family: 'Audiowide', cursive;
+    font-size: 2em;
+}
+
+h1 a {
     text-decoration: none;
     color: #81e315;
     font-family: 'Audiowide', cursive;  
 }
 
-#propos {
+h3 {
     text-decoration: none;
-    color: #488f52;
-    font-size: large;
-    font-weight: bold;
+    color: #81e315;
+    font-family: 'Audiowide', cursive; 
 }
 
-.container-fluid {
-    margin-bottom: 15px;
+h3 a {
+    text-decoration: none;
+    color: #81e315;
+    font-family: 'Open Sans', sans-serif;
 }
