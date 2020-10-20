@@ -57,3 +57,7 @@ h3 a {
     font-size: large;
     font-weight: bold;
 }
+
+.container-fluid {
+    margin-bottom: 15px;
+}
